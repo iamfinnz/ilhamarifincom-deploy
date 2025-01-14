@@ -93,7 +93,7 @@ function HeaderTitle() {
           >
             Software Developer
           </strong>{' '}
-          who's always challanged to create solution
+          who is always challanged to create solution
           <span className={clsx('block')}>that benefit many. Constantly learning and growing for better results.</span>
         </m.h1>
       </span>

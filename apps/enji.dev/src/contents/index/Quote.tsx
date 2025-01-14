@@ -59,7 +59,7 @@ function Quote() {
           />
         </span>
         <span className={clsx('leading-[1.15]')}>
-          Let's{' '}
+          Let`s{' '}
           <strong
             className={clsx(
               'relative font-extrabold text-slate-600',

@@ -18,7 +18,7 @@ const nextConfig = {
     },
   ],
   pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
-  reactStrictMode: true,t
+  reactStrictMode: true,
 };
 
 const withBundleAnalyzer = bundeAnalyzer({
